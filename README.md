@@ -129,7 +129,9 @@ GenAI_Material_Assistant/
 
 **Harish Kumar V**
 🎓 3rd Year – AIML Department | Rajalakshmi Engineering College
+
 📅 Duration: November 2025 (Prototype Phase)
+
 📧 [231501057@rajalakshmi.edu.in](mailto:231501057@rajalakshmi.edu.in)
 
 ---
